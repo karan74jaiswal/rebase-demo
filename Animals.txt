@@ -4,3 +4,7 @@ Elephants
 Lion
 Tiger
 Monkey
+Panda
+Deer
+Beer
+Snake
